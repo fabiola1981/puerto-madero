@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 9, 2018 5:14 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.1 mod_perl/2.0.8 Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 14MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:23 | filtered:0 | create:23 
+FILTERED: [] 
+SQL CREATED: 20180809_b62246192c2d4a8c4343180809171336_database.sql 
+SQL FILE SIZE: 589.08KB (603215) 
+SQL FILE TIME: 2018-08-09 17:14:01 
+SQL RUNTIME: 0.36 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/Users/Fabiola/Desktop/wordpress 1.2/wordpress 
+ARCHIVE FILE: 20180809_b62246192c2d4a8c4343180809171336_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	88.52MB 
+STATS:	Dirs 362 | Files 3,266 
+SQL ADDED: 20180809_b62246192c2d4a8c4343180809171336_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3628
+    [filename] => C:\Users\Fabiola\Desktop\wordpress 1.2\wordpress\wp-snapshots\tmp\20180809_b62246192c2d4a8c4343180809171336_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 45.77MB 
+ARCHIVE RUNTIME: 46.47 sec. 
+MEMORY STACK: 14MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/Users/Fabiola/Desktop/wordpress 1.2/wordpress/wp-snapshots/tmp/20180809_b62246192c2d4a8c4343180809171336_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 589.08KB 
+Installer File: 445.88KB 
+Archive File: 45.77MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 48.79 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20180809 August 9, 2018 5:14 pm
+ 
